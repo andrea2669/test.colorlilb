@@ -1,0 +1,14 @@
+co/com/choucair/certification/colorlib/tasks/Ingresar.java
+ co.com.choucair.certification.colorlib.tasks.Ingresar
+co/com/choucair/certification/colorlib/questions/Validar.java
+ co.com.choucair.certification.colorlib.questions.Validar
+co/com/choucair/certification/colorlib/tasks/Presionar.java
+ co.com.choucair.certification.colorlib.tasks.Presionar
+co/com/choucair/certification/colorlib/tasks/Digitar.java
+ co.com.choucair.certification.colorlib.tasks.Digitar
+co/com/choucair/certification/colorlib/tasks/Abrir.java
+ co.com.choucair.certification.colorlib.tasks.Abrir
+co/com/choucair/certification/colorlib/userinterface/RepositorioObjetos.java
+ co.com.choucair.certification.colorlib.userinterface.RepositorioObjetos
+co/com/choucair/certification/colorlib/userinterface/PaginaColor.java
+ co.com.choucair.certification.colorlib.userinterface.PaginaColor
